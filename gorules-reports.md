@@ -1,4 +1,4 @@
-'''GO rules reports'''
+**GO rules reports**
 
 * All [GO-RULES](https://github.com/geneontology/go-site/blob/master/metadata/rules/README.md) with status=implemented are reported in the [GOA ftp](https://ftp.ebi.ac.uk/pub/contrib/goa/qc_reports/). 
 The overall report is at https://ftp.ebi.ac.uk/pub/contrib/goa/qc_reports/heat.html
